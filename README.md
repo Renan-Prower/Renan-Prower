@@ -1,9 +1,5 @@
 ## Bem vindo ao meu lar
 
-<!--
-**Renan-Prower/Renan-Prower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 - 🔭 Atualmente trabalhando no legacy IV
 - 🌱 Atualmente estudando Java script e gml
