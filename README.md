@@ -7,7 +7,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Gif-001" src="https://yumeko0.tumblr.com/post/153997276883/ranpo-eating-hes-probably-my-favourite-bungousd">
+  <img align="right" alt="Gif-001" src="https://pin.it/5ThSjnDNF">
 
 
 ##
