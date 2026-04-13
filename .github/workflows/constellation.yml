@@ -1,4 +1,4 @@
-name: Generate Commit Constellation
+name: Generate Commit Visualization
 
 on:
   schedule:
@@ -10,15 +10,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@master
+      - name: generate snake
+        uses: Platane/snk@master
         with:
-          github_user_name: SEU_USUARIO
-          outputs: |
-            dist/constellation.svg
-            dist/constellation-dark.svg?palette=github-dark
-            dist/constellation-purple.svg?color_snake=%238a2be2&color_dots=%23b026ff,%236a0dad,%23ffffff,%23000000
+          github_user_name: Renan-Prower
+          svg_out_path: dist/snake.svg
+          gif_out_path: dist/snake.gif
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
