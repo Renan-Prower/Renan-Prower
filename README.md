@@ -52,4 +52,8 @@ wake up → code → commit → improve → repeat
 "Small commits build great developers over time."
 <p align="center"> ⛩️ Keep building. Keep evolving. ⛩️ </p> 
 
-https://raw.githubusercontent.com/Renan-Prower/Renan-Prower/output/constellation.svg
+## 🌙 Timeline Visual
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Renan-Prower/Renan-Prower/output/snake.svg" />
+</p>
