@@ -1,0 +1,26 @@
+name: Generate Commit Constellation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: SEU_USUARIO
+          outputs: |
+            dist/constellation.svg
+            dist/constellation-dark.svg?palette=github-dark
+            dist/constellation-purple.svg?color_snake=%238a2be2&color_dots=%23b026ff,%236a0dad,%23ffffff,%23000000
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
