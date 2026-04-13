@@ -1,5 +1,8 @@
 name: Generate Commit Visualization
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -22,5 +25,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          allow_empty_commit: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
