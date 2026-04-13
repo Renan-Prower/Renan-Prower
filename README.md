@@ -1,63 +1,53 @@
-<!-- ☠️ RE:ZERO FINAL BOSS PROFILE ☠️ -->
+<!-- 🌙 RE:ZERO DEV PROFILE 🌙 -->
 
-<h1 align="center">⛩️ 𝕽𝖊:𝖟𝖊𝖗𝖔 — 𝐅𝐈𝐍𝐀𝐋 𝐁𝐎𝐒𝐒 𝐑𝐄𝐓𝐔𝐑𝐍 𝐁𝐘 𝐃𝐄𝐀𝐓𝐇 ⛩️</h1>
+<h1 align="center">⛩️ 𝓡𝓮:𝓩𝓮𝓻𝓸 — Developer Journey ⛩️</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/3o7TKx5s2F5K8F5K0U/giphy.gif" width="420"/>
 </p>
 
+---
+
+## 🌌 STATUS
+
 ```txt
-█████████████████████████████████
-█ REALITY: UNSTABLE             █
-█ SAVE POINT: UNKNOWN           █
-█ CURSE: WITCH ACTIVE           █
-█ LOOP STATUS: INFINITE         █
-█ PLAYER STATUS: REVIVING...    █
-█████████████████████████████████
+SYSTEM: STABLE
+REALITY: NORMAL
+FOCUS: DEVELOPMENT
+TIMELINE: CONTINUOUS
 
-[BOOTING TIMELINE ENGINE...]
-→ Loading memory fragments...
-→ Syncing pain data...
-→ Rewriting existence...
-STATUS: ☠ ACTIVE LOOP DETECTED ☠
 
-HP   ███████░░░░░░ 45%
-MP   ████████████ 100%
-SAN  ███░░░░░░░░░░ 20%
-CUR  ██████████████ WITCH BLESSING
-XP   ███████████░░ 87%
+##🧠 XP SYSTEM (LEVEL BASED ON COMMITS)
+XP is based on GitHub activity (commits, contributions)
 
-☠ Return by Death (∞) activated
-⏳ Timeline Rewind engaged
-🧠 Mental Fracture Resistance unstable
-💢 Rage Overflow increasing
-🔁 Save Point override corrupted
 
-- Infinite Retry Loop active
-- Emotional Corruption spreading
-- Reality Desync detected
-- Bug summoning aura unstable 🐛
-- Memory fragmentation increasing
+LEVELS:
 
-"You are not allowed to die yet."
-— UNKNOWN ENTITY
+Level 1   ░░░░░░░░░░ Beginner
+Level 10  ███░░░░░░░ Learning
+Level 25  █████░░░░░ Intermediate
+Level 50  ████████░░ Advanced
+Level 100 ██████████ Master
 
-[ERROR] Emotion module overflow
-[WARN] Timeline instability rising
-[INFO] Restarting life cycle...
-[ERROR] Witch influence detected
-[CRITICAL] SAVE POINT CORRUPTED
-[DEBUG] trying again... again... again...
 
-       ⛩ RETURN BY DEATH ACTIVE ⛩
-        ☠ YOU CANNOT ESCAPE LOOP ☠
+##📊 GITHUB STATS
 
-     ██████╗ ███████╗███████╗██╗  ██╗
-     ██╔══██╗██╔════╝██╔════╝██║  ██║
-     ██████╔╝█████╗  ███████╗███████║
-     ██╔══██╗██╔══╝  ╚════██║██╔══██║
-     ██║  ██║███████╗███████║██║  ██║
-     ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/> </p>
 
-"In every death, a stronger version of me awakens."
-⛩ DO NOT TRUST THE SAVE POINT ⛩
+
+##🌸 SKILLS
+Frontend  → React / UI / UX
+Backend   → Node.js / APIs
+Tools     → Git / Vite / Vercel
+Mindset   → Consistency / Growth
+
+
+##📈 ACTIVITY GRAPH
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/> </p>
+
+##🌙 DAILY FLOW
+wake up → code → commit → improve → repeat
+
+"Small commits build great developers over time."
+<p align="center"> ⛩️ Keep building. Keep evolving. ⛩️ </p> 
