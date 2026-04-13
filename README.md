@@ -32,7 +32,7 @@ Level 100 ██████████ Master
 
 ##📊 GITHUB STATS
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Renan-Prower&show_icons=true&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renan-Prower&theme=tokyonight&hide_border=true"/> </p>
 
 
 ##🌸 SKILLS
@@ -44,7 +44,7 @@ Mindset   → Consistency / Growth
 
 ##📈 ACTIVITY GRAPH
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renan-Prower&theme=tokyo-night"/> </p>
 
 ##🌙 DAILY FLOW
 wake up → code → commit → improve → repeat
